@@ -1,0 +1,11 @@
+Gear stands have 0, 10, 20, and 30 thou clearance between gears.
+Gears have modules 100, 50, and 30.
+
+Axle posts are 250 thou, holes are 275 thou, per axle tests.
+
+Gears actually _work_ with 0 nominal clearance, roughly.
+Clearance 10 turns easily with slight changes in torque.
+Clearance 20 turns freely with slight rattle.
+
+Module 50 works fine. Module 100 is overkill.
+FIXME - Testing module 30.

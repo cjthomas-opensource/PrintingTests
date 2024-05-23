@@ -1,0 +1,13 @@
+This contains collars with a nominal 0.25" hole (plus clearance), and axles
+with nominal 0.25" diameter (plus or minus clearance).
+
+See the mechanical drawing for details and layout.
+
+With "rough" settings, a hole 20 thou larger than the axle turned freely but
+had contact (10 thou clearance). A hole 30 thou larger than the axle turned
+freely without contact (but a bit of rattle) (15 thou clearance).
+
+Calipers say the posts are slightly undersized (-10 to +0 thou) and the holes
+are way undersized (-15 to -10 thou).
+
+So, make holes wider than nominal by 20 thou, and then add clearance.

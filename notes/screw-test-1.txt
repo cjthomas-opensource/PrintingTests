@@ -1,0 +1,34 @@
+The screw test had arrays of holes for #2, #4, and #6 screws.
+
+
+Nominal:
+
+#2 - 70 tap, 85 shank, 95 clear
+#4 - 90 tap, 110 shank, 130 clear
+#6 - 110 tap, 140 shank, 160 clear
+
+
+XY plane (hole axis Z):
+
+#2 - 85 max tap, 100-105 min clear
+#4 - 110 max tap, 130 min clear
+#6 - 130 max tap, 150 min clear
+
+
+XZ and YZ planes (hole axis X or Y):
+
+#2 - 80 max tap, 95-100 min clear
+#4 - 100 max tap, 120 min clear
+#6 - 120 max tap, 140 min clear
+
+
+...So, XY (hole Z) is small but others are close to spec, with variation.
+
+Should always work:
+
+#2 - 80 tap, 100 clear (105 free)
+#4 - 100 tap, 130 clear (125 might work)
+#6 - 120 tap, 150 clear (125/152 standard might work)
+
+
+(This is the end of the file.)

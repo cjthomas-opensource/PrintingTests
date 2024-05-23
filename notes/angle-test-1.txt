@@ -1,0 +1,7 @@
+This contains structures at 20 degrees, 30 degrees, 45 degrees, and 60
+degrees from the vertical. Pairs are aligned with the X and Y axes.
+
+My printer handled all of these angles at "fast" settings, with crud under
+some of the 60 degree beams. One corner of the bars was off even for near
+vertical; this is due to it having trouble cornering at high speed. Cura
+was set to 150 mm/sec speed limit for these tests.

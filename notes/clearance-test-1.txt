@@ -1,0 +1,13 @@
+This contains spools with the following clearances (and 45 deg bevels):
+
+30 thou (0.75 mm)
+25 thou (0.64 mm)
+20 thou (0.5 mm)
+15 thou (0.4 mm)
+12 thou (0.3 mm)
+10 thou (0.25 mm)
+
+With "rough" settings, everything down to 20 thou (0.5 mm) worked as-is.
+15 thou (0.4 mm) was easy to free and turns freely.
+12 thou (0.3 mm) was very difficult to free and sticks when turning.
+10 thou (0.25 mm) was bonded solid.

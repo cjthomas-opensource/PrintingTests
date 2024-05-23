@@ -1,0 +1,3 @@
+Chain link clearance 10 / 15 / 20 / 25 / 30 thou.
+Axles are printed horizontally.
+All links moved freely.
